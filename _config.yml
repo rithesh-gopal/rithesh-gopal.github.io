@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  rithesh-gopal
 
 # Build settings
-theme: minima
+theme: phantom
 plugins:
   - jekyll-feed
 
