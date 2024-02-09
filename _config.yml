@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  rithesh-gopal
 
 # Build settings
-theme: phantom
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
